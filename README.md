@@ -18,4 +18,5 @@ This repository accompanies the article published on [Dev.to](https://dev.to/zah
 **Read the full blog post here:**
 
 👉 [Containers vs Virtual Machines – What's the Difference?](https://dev.to/zaheetdev/containers-vs-virtual-machines-whats-the-difference-1fep)
+
 👉 [🐳 Docker Bind Mounts vs Volumes: What's the Difference?](https://dev.to/zaheetdev/docker-bind-mounts-vs-volumes-whats-the-difference-59g4)
